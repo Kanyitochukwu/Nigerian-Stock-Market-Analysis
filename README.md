@@ -163,7 +163,6 @@ Stocks with higher trading activity are easier to trade because there are more b
 
 This is particularly important for large investors who need to enter or exit positions without significantly affecting prices.
 
-⸻
 
 Finding #5: Data Beats Guesswork
 
@@ -197,6 +196,7 @@ Provides deeper insights through:
 
 Interactive filters allow users to focus on individual sectors or companies.
 
+Live Dashboard: [Interactive Power BI Dashboard](https://app.powerbi.com/links/zqY0tR4d6U?ctid=22724e8d-42f9-4460-8d24-668c54838954&pbi_source=linkShare)
 
 ## Business Value
 

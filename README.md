@@ -5,7 +5,7 @@ Finding the best investment opportunities
 
 Investing in stocks can be challenging because investors must balance two competing goals: earning strong returns while avoiding excessive risk.
 
-In this project, I analyzed seven major Nigerian stocks across four sectors—Banking, Manufacturing, Telecommunications, and Oil & Gas—to determine which companies offered the most attractive investment opportunities during 2025.
+In this project, I analyzed seven major Nigerian stocks across four sectors: Banking, Manufacturing, Telecommunications, and Oil & Gas, to determine which companies offered the most attractive investment opportunities during 2025.
 
 Using Excel, MySQL, and Power BI, I transformed raw stock market data into an interactive dashboard that helps investors compare companies, understand market trends, and make data-driven decisions.
 

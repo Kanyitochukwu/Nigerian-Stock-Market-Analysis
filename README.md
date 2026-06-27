@@ -73,7 +73,7 @@ Oil & Gas
 
 Data Source
 
-(Investing.com)
+[Investing.com](https://www.investing.com)
 
 Total Records Analyzed
 
